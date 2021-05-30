@@ -25,7 +25,7 @@ Run the following command to:
 - print the head of the result
 
 # Components diagram
-![spark](images/Spark.png)
+![spark](screenshots/Spark.png)
 
 # Screenshots
 Screenshots are available [here](./screenshots/README.md)
